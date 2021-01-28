@@ -5,10 +5,14 @@ Function to handle pasted text in draft-js. This seems to be one of the key feat
 If your requirements are basic like changing a few styles or creating tags/entities out of pasted text, it should work out of the box. You can provide your custom function for styling or entity creation for advanced uses.
 
 # Installation
+```
 npm install handlepastedtext --save
+```
 
 # ES6 import
+```js
 import HandlePastedText from 'handlepastedtext'
+```
 
 # Requirements
 Needs draft-js
