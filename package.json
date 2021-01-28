@@ -1,6 +1,6 @@
 {
   "name": "handlepastedtext",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Function to handle pasted text in draft-js. This seems to be one of the key features of draftail. I didn't want the other features/heavy customization of draftail. If your requirements are basic like changing a few styles or creating tags/entities out of pasted text, it should work out of the box. You can provide your custom function for styling or entity creation for advanced uses.",
   "main": "index.js",
   "scripts": {
